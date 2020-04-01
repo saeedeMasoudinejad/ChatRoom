@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfb97b0a-93d6-48b9-9da4-eacd3f1296db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/chatroom/client_side.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/client_side.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatroom/server_side.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatroom/server_side.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chatroom" />
+  </component>
+  <component name="ProjectId" id="1ZwXxMwEo65DQzJXUVaOf95Vgxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chatroom/server_side.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.client_side">
+    <configuration name="client_side" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chatroom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatroom/client_side.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_side" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chatroom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatroom/server_side.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chatroom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatroom/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server_side" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.client_side" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client_side" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.server_side" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb97b0a-93d6-48b9-9da4-eacd3f1296db" name="Default Changelist" comment="" />
+      <created>1585751377670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585751377670</updated>
+      <workItem from="1585751390412" duration="182000" />
+      <workItem from="1585751753355" duration="1144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585752371279">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1585752371279" />
+    <state x="371" y="0" key="#server_side" timestamp="1585751863618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="0" key="#server_side/0.0.1280.760@0.0.1280.760" timestamp="1585751863618" />
+    <state x="420" y="135" key="FileChooserDialogImpl" timestamp="1585752294011">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1585752294011" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1585753018864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585753018864" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1585753018864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1585753018864" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1585753018863">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1585753018863" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1585753018864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1585753018864" />
+    <state x="141" y="22" key="SettingsEditor" timestamp="1585752019693">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="141" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1585752019693" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChatRoom$server_side.coverage" NAME="server_side Coverage Results" MODIFIED="1585752297315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatroom" />
+    <SUITE FILE_PATH="coverage/ChatRoom$client_side.coverage" NAME="client_side Coverage Results" MODIFIED="1585752414988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatroom" />
+    <SUITE FILE_PATH="coverage/ChatRoom$test.coverage" NAME="test Coverage Results" MODIFIED="1585752331017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chatroom" />
+  </component>
+</project>
